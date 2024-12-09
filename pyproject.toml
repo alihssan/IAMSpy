@@ -5,7 +5,7 @@ description = ""
 authors = ["Mohit Gupta <mohit.gupta@withsecure.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 z3-solver = "*"
 pydantic = "1.10.12"
 typer = "*"
