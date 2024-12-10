@@ -190,7 +190,7 @@ class Model:
         conditions: List[str] = [],
         condition_file: Optional[str] = None,
         strict_conditions: bool = False,
-    ) -> list[str]:
+    ):
         """
         Used by the CLI to provide the who-can call.
         """
